@@ -1,5 +1,7 @@
 # CPANMinus Bash Completion
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Basic tab completion for [CPANMinus](https://github.com/miyagawa/cpanminus).
 
 # Introduction

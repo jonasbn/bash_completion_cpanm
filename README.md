@@ -92,7 +92,7 @@ $ source /usr/local/share/bash-completion/completions/cpanm
 
 ## Motivation
 
-I have a huge list of `cpanm` library installations and I tend to keep the names long and descriptive, so it seemed like tab completion was an interesting alternative to the __flow breaking copy-pasting__ and error prone typing away.
+`cpanm` is an important tool in my toolchain, so I wanted to have easy access to all the options available.
 
 The programmatic capabilities of `bash` are truly powerful and useful and can be put to good use in use-cases like this.
 

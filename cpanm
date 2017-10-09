@@ -1,5 +1,4 @@
-#
-#  Completion for cpanm:
+# Completion for cpanm:
 #
 #   -v,--verbose              Turns on chatty output
 #   -q,--quiet                Turns off the most output
@@ -27,6 +26,9 @@
 #   -U,--uninstall            Uninstalls the modules (EXPERIMENTAL)
 #   -V,--version              Displays software version
 #
+# Github: https://github.com/jonasbn/bash_completion_cpanm
+# Copyright Jonas B. Nielsen (jonasbn) 2017
+# MIT License
 
 _cpanm()
 {
